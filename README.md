@@ -1,2 +1,3 @@
-# basic-github
-Lesson folder for basic github from data science youtube
+# basic-GitHub
+Lesson folder for basic git-hub from data science YouTube
+## about this course
